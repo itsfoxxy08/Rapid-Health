@@ -1,3 +1,4 @@
+# Botpress Version: [Click Here](https://cdn.botpress.cloud/webchat/v2/shareable.html?botId=a7f05a89-88e0-4afd-8d34-7b414f3d8230)
 # 🩺 Rapid-Health (QuickMed) - Your AI Health Assistant
 
 Welcome to the official repository for Rapid-Health (Also known as QuickMed)! 🤖 This is an intelligent chatbot designed to be your first stop for health queries. Built with Python 🐍 and the powerful Botpress AI 💬, our mission is to make preliminary healthcare guidance accessible to everyone, anytime.
